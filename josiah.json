@@ -1,7 +1,22 @@
 [
      {
-       "name": "josiah",
+       "name": "Bia",
+       "gender": "Female",
+       "age": "13"
+     },
+     {
+       "name": "Neomi",
+       "gender": "Female",
+       "age": "10"
+     },
+     {
+       "name": "Josiah",
        "gender": "Male",
        "age": "8"
+     },
+     {
+       "name": "Ilia",
+       "gender": "Male",
+       "age": "4"
      }
 ]
