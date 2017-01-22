@@ -1,7 +1,7 @@
-var josiah = [
+[
      {
-       name: "josiah",
-       gender: "Male",
-       age: "8"
+       "name": "josiah",
+       "gender": "Male",
+       "age": "8"
      }
 ]
